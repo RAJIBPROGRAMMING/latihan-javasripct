@@ -1,5 +1,5 @@
 // dua variaber
-let penumpang = ['rajib','meldi'];
+let penumpang = [];
 // rules
 let tambaHPenumpang = function (namaPenumpang,penumpang){
     if( penumpang.length === 0){
